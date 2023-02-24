@@ -10,7 +10,7 @@ annotate rm.Risks with {
     miti   @title : 'Mitigation';
     impact @title : 'Impact';
     //### BEGIN OF INSERT
-    bp     @title : 'Business Partner';
+    bp     @title : 'BuPa';
 //### END OF INSERT
 }
 
